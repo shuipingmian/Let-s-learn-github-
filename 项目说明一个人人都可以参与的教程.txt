@@ -1,0 +1,18 @@
+这是一个在完善的github的教程，本人是一个前端工程师，因为一些工作原因需要熟悉github的使用。虽然我们公司用的是SVN,开
+个小玩笑的，当然我不是来砸场子的。Github的一个重要的原则就是开源共同协作，所以我想尝试一下在社区中完善一下Github的
+一些教程，尽管我知道网上可能有很多现有的教程，但是就我一个中国的开发人员来说，不懂英文靠翻译机学习还是有些艰难。
+所以我想建立一个github的开源项目，用来存储我的一些个人网站，顺便使用GIT来管理代码。请放心我也是一个菜鸟，没用过git。
+本项目文件分为录屏的视频教程.推荐的一些git的学习网址.和我自己的项目，请放心尽管你不懂英文，也可以看我的教程视频学习
+最基本的git使用，因为我是个英文不好的中国人你们懂的。欢迎大家提交修改意见。在我工作之余我会尽量回复。
+This is a tutorial on github. I am a front-end engineer. I need to be familiar with the use of github for some work 
+reasons. Although our company USES SVN, just to make a little joke, of course I'm not here to mess things up. An 
+important principle of Github is open source collaboration, so I want to try to improve some tutorials on Github in
+ the community. Although I know there may be many tutorials on Github online, as a Chinese developer, it is still a
+ little difficult for me to learn English without a translator.
+
+Therefore, I want to build an open source project on 
+github to store some of my personal websites and manage the code with GIT by the way. Please rest assured that I am 
+also a novice and have not used git. This project file is divided into screenshot video tutorial, some recommended 
+git learning websites, and my own project, please rest assured that although you do not know English, you can also 
+read my tutorial video to learn the most basic git use, because I am a poor English Chinese you know.You are welcome
+ to submit Suggestions for revision. I will try my best to reply after work

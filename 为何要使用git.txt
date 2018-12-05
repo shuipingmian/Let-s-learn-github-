@@ -1,0 +1,33 @@
+    在此我先说明无论是SVN和github都有一个最基本的功能就是上传，下载，你可以把它们看作一个仓库管理，比如说我家里有一
+个房子，以前是一个杂物间，放了很多乱七八糟的东西比如你的电风扇，废纸箱，（对应的就是你的文件，比如小说txt 音乐MP3
+ ）等，那么你现在想把杂物间改造成一个仓库，你可能会问杂物间和仓库的区别是什么呢，区别在于管理，你可以清楚的知道你的
+仓库什么时候放进去了什么，什么时候拿出去了什么，放进去的用途是什么.
+      对于杂物这样做似乎没有意义，但是对于有价值的东西来说非常重要，打个比方你放进仓库里的是你的压岁钱，你最爱的钱
+包，或者是黄金，钻石，比如你的钻戒，你在一个时间里用一个随意的理由将他们放进杂物间，然后当你未来需要它们时，你将在
+一堆废纸箱和旧衣服中寻找，或者更本找不到，它已经被你拿去别的地方了，可能就戴在你的手上，但你记得它曾经在这里，你还
+在不停的寻找。这是不是很让人抓狂。但是当你用git的仓库管理后，你可以有一个完善的记录，知道压岁钱在你的旧衣服口袋里，
+钻石在哪个废纸箱里。而且永久可以查询到，就和你记录到本子上一样。所以我个人认为git与我们的普通文件夹最大的区别就在于
+管理。
+   对于电脑中重要的东西，有价值的物品，经常更改的一些重要的文档，用GIT管理都是一个不错的选择。
+
+
+
+I'm going to show you here that both SVN and github have one of the most basic functions of uploading, downloading, and you can think of them as a warehouse, like I have one in my family
+
+House, used to be a utility room, put a lot of messy things such as your fan, waste boxes, (corresponding to your files, such as the novel TXT music MP3
+
+), so now you want to convert the utility room into a warehouse, you may ask what is the difference between the utility room and the warehouse, the difference is the management, you can clearly know your
+
+When did the warehouse put in what, when took out what, put in what purpose.
+
+It doesn't seem to make sense to do this for clutter, but it's very important for something of value. For example, the money you put in the warehouse is your lucky money, your favorite money
+
+Bags, or gold, diamonds, like your diamond ring, you put them in the utility room for a random reason at a time, and then when you need them in the future, you'll be there
+
+A pile of cardboard boxes and old clothes to look for, or not to find, it has been taken somewhere else, may be on your hand, but you remember it was here, you also
+
+In constant search. Isn't that crazy? But when you use git's warehouse management, you can have a complete record of the lucky money in your old clothes pocket, which scrap box is the diamond in. And it's always searchable, just like you put it in a notebook. So I personally think git is different from our normal folders in that it is
+
+Management.
+
+GIT is a good choice for important things in your computer, valuable things, and important documents that you change frequently.
